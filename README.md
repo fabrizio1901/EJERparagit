@@ -1,1 +1,3 @@
-Este es el texto de la rama MAIN
+
+Este es el texto final despues de resolver el conflicto
+
